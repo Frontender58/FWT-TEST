@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontender58/fwttest-app/static/css/main.821dd71a.css",
+    "main.js": "/Frontender58/fwttest-app/static/js/main.6388d6b2.js",
+    "static/js/787.0030736e.chunk.js": "/Frontender58/fwttest-app/static/js/787.0030736e.chunk.js",
+    "index.html": "/Frontender58/fwttest-app/index.html",
+    "main.821dd71a.css.map": "/Frontender58/fwttest-app/static/css/main.821dd71a.css.map",
+    "main.6388d6b2.js.map": "/Frontender58/fwttest-app/static/js/main.6388d6b2.js.map",
+    "787.0030736e.chunk.js.map": "/Frontender58/fwttest-app/static/js/787.0030736e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821dd71a.css",
+    "static/js/main.6388d6b2.js"
+  ]
+}
