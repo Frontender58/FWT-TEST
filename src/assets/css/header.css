@@ -1,0 +1,91 @@
+.container {
+  width: 82vw;
+  height: 91.55vh;
+  box-sizing: border-box;
+  margin: 2.24vh 9vw 6.21vh 9vw;
+}
+
+.header {
+  box-sizing: border-box;
+  margin-bottom: 2.88vh;
+}
+
+.header__inputs {
+  position: relative;
+  margin-top: 2.24vh;
+}
+
+.header__logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__name {
+  width: 19.4vw;
+  height: 45px;
+  border-radius: 8px;
+  background-color: #0c0c0c;
+  border: 1px solid #ffffff;
+  padding-left: 1.1vw;
+  padding-top: 0.4vh;
+  box-sizing: border-box;
+  line-height: 15.23px;
+}
+
+.header__author {
+  width: 19.4vw;
+  height: 45px;
+  margin-left: 1.1vw;
+  border-radius: 8px;
+  background-color: #0c0c0c;
+  border: 1px solid #ffffff;
+  padding-left: 1.1vw;
+  padding-top: 0.4vh;
+  box-sizing: border-box;
+  line-height: 15.23px;
+}
+
+.header__location {
+  width: 19.4vw;
+  height: 45px;
+  margin-left: 1.1vw;
+  border-radius: 8px;
+  background-color: #0c0c0c;
+  border: 1px solid #ffffff;
+  padding-left: 1.1vw;
+  padding-top: 0.4vh;
+  box-sizing: border-box;
+  line-height: 15.23px;
+}
+
+.header__created {
+  width: 19.4vw;
+  height: 45px;
+  margin-left: 1.1vw;
+  border-radius: 8px;
+  background-color: #0c0c0c;
+  border: 1px solid #ffffff;
+  padding-left: 1.1vw;
+  padding-top: 0.4vh;
+  box-sizing: border-box;
+  line-height: 15.23px;
+}
+
+.header__arrow1 {
+  position: absolute;
+  top: 14px;
+  left: 38vw;
+}
+
+.header__arrow2 {
+  position: absolute;
+  top: 14px;
+  left: 59vw;
+}
+
+.header__arrow3 {
+  position: absolute;
+  top: 14px;
+  left: 80vw;
+}

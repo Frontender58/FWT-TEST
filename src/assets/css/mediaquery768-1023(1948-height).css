@@ -1,0 +1,80 @@
+@media (min-width: 768px) and (max-width: 1023px) {
+  .container {
+    height: 95.43vh;
+    width: 91.15vw;
+    margin: 1.8vh 4.4vw 2.77vh 4.4vw;
+  }
+
+  .header {
+    margin-bottom: 2.31vh;
+  }
+
+  .header__inputs {
+    position: relative;
+    margin-top: 1.8vh;
+  }
+
+  .header__name {
+    width: 20.83vw;
+    height: 45px;
+    padding-left: 1.8vw;
+    padding-top: 0.4vh;
+  }
+
+  .header__author {
+    width: 20.83vw;
+    height: 45px;
+    margin-left: 2vw;
+    padding-left: 1.8vw;
+    padding-top: 0.4vh;
+  }
+
+  .header__location {
+    width: 20.83vw;
+    height: 45px;
+    margin-left: 2vw;
+    padding-left: 1.8vw;
+    padding-top: 0.4vh;
+  }
+
+  .header__created {
+    width: 20.83vw;
+    height: 45px;
+    margin-left: 2vw;
+    padding-left: 1.8vw;
+    padding-top: 0.4vh;
+  }
+
+  .header__arrow1 {
+    top: 17px;
+    left: 41vw;
+  }
+
+  .header__arrow2 {
+    top: 17px;
+    left: 65vw;
+  }
+
+  .header__arrow3 {
+    top: 17px;
+    left: 88vw;
+  }
+
+  .main {
+    gap: 1.03vh;
+    margin-bottom: 1.8vh;
+  }
+
+  .main__name_adaptation {
+    width: 43.44vw;
+    height: 249px;
+  }
+
+  .main__name-style {
+    width: 100%;
+    height: 24px;
+    position: absolute;
+    padding-top: 2px;
+    padding-left: 1.1vw;
+  }
+}

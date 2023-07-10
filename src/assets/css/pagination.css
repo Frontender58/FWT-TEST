@@ -1,0 +1,65 @@
+.pagination__rectangle {
+  float: left;
+  color: #ffffff;
+  width: 3vw;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  padding: 0.66vh 1.13vw 0.66vh 1.1vw;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.pagination__rectangle:hover {
+  background-color: #464646;
+}
+
+.pagination__rectangle.no-hover:hover {
+  background-color: unset !important;
+}
+.pagination__rectangle.active {
+  background-color: #464646;
+}
+
+.pagination__rectangle:first-child {
+  color: #000000;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination__rectangle:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.pagination__rectangle:hover {
+  background-color: #464646;
+}
+
+@media (min-width: 1024px) and (max-width: 1365px) {
+  .pagination__rectangle {
+    width: 4vw;
+    height: 41px;
+    padding: 0.66vh 1.13vw 0.66vh 1.5vw;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .pagination__rectangle {
+    width: 5.34vw;
+    height: 41px;
+    padding: 0.66vh 1.13vw 0.66vh 2vw;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .pagination__rectangle {
+    float: left;
+    color: #ffffff;
+    width: 12.5vw;
+    height: 41px;
+    padding: 0.66vh 1.13vw 0.66vh 4.7vw;
+  }
+}
